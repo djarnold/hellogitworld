@@ -1,2 +1,2 @@
 Trainer making changes
-JUNK ON
+JUNK OFF on the server
