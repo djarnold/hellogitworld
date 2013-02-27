@@ -1,3 +1,4 @@
 Trainer making changes
 JUNK ON on the client
 JUNK OFF on the server
+Add line on client side
