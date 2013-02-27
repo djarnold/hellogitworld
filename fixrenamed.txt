@@ -1,4 +1,9 @@
 Trainer making changes
 JUNK ON on the client
+<<<<<<< HEAD
 JUNK OFF on the server
 Add line on client side
+=======
+JUNK OFF on the serverk
+Add another line on the server
+>>>>>>> c746ffb453c658d82707b4aead49d07fc0070ebc
